@@ -1,5 +1,4 @@
-# Welcome to My GitHub Profile! 👋 (IN CONSTRUCTION)
-
+# Welcome to My GitHub Profile! 👋
 Hi there! I'm an **aspiring software developer** passionate about learning, building, and exploring new technologies. This GitHub profile is my digital playground where I showcase my journey, projects, and skills as I grow in the tech world.
 
 ---
@@ -19,7 +18,7 @@ Hi there! I'm an **aspiring software developer** passionate about learning, buil
 
 ---
 
-## 🔨 Projects
+## 🔨 Projects (IN CONSTRUCTION)
 Here are a few projects I've worked on—showcasing my current focus and learning journey:
 
 ### Featured
