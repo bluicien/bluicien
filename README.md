@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile! 👋
-Hi there! I'm an **Junior Software Developer** passionate about learning, building, and exploring new technologies. This GitHub profile is my digital playground where I showcase my journey, projects, and skills as I grow in the tech world.
+Hi there! I'm a **Junior Software Developer** passionate about learning, building, and exploring new technologies. This GitHub profile is my digital playground where I showcase my journey, projects, and skills as I grow in the tech world.
 
 ---
 
@@ -18,7 +18,7 @@ Hi there! I'm an **Junior Software Developer** passionate about learning, buildi
 
 ---
 
-## 🔨 Projects (IN CONSTRUCTION)
+## 🔨 Projects
 Here are a few projects I've worked on—showcasing my current focus and learning journey:
 
 ### Featured Projects
@@ -52,8 +52,13 @@ Here are a few projects I've worked on—showcasing my current focus and learnin
 
 ---
 
+## 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bluicien&show_icons=true&theme=radical)
+
+---
+
 ## 🤝 Connect with Me
 Feel free to connect and collaborate with me:
-- [LinkedIn](#) (https://www.linkedin.com/in/bluicien-bl2/)
+- [LinkedIn](https://www.linkedin.com/in/bluicien-bl2/)
 
 Thanks for visiting my profile! 😊
