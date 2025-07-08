@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile! 👋
-Hi there! I'm an **aspiring software developer** passionate about learning, building, and exploring new technologies. This GitHub profile is my digital playground where I showcase my journey, projects, and skills as I grow in the tech world.
+Hi there! I'm an **Junior Software Developer** passionate about learning, building, and exploring new technologies. This GitHub profile is my digital playground where I showcase my journey, projects, and skills as I grow in the tech world.
 
 ---
 
