@@ -26,8 +26,8 @@ Here are a few projects I've worked on—showcasing my current focus and learnin
 - [**Project Name**](#): Short description (e.g., "A REST API built with C# and ASP.NET Core.")
 
 ### Archived or Early Work
-- [**Flask Project**](#https://github.com/bluicien/CloudAppDevelopment_Capstone): A simple Flask app to log transactions and perform CRUD operations.
-- [**IB Capstone Project**](#https://github.com/bluicien/Transaction_log_FLASK): A full stack car and dealership management platform built on Django.
+- [**Flask Project**](https://github.com/bluicien/CloudAppDevelopment_Capstone): A simple Flask app to log transactions and perform CRUD operations.
+- [**IBM Capstone Project**](https://github.com/bluicien/Transaction_log_FLASK): A full stack car and dealership management platform built on Django.
 > _Note: These projects were created during my early days of learning Python and are archived for reference._
 
 ---
