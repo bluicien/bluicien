@@ -11,9 +11,9 @@ Hi there! I'm an **Junior Software Developer** passionate about learning, buildi
 ---
 
 ## 💻 My Skills
-- **Frontend:** React.js, TypeScript, HTML5, CSS3
-- **Backend:** C#, ASP.NET Core, SQL
-- **Tools & Platforms:** Git, GitHub, Visual Studio, Visual Studio Code
+- **Frontend:** React.js, TypeScript, HTML5, CSS3, Next.js
+- **Backend:** Express.js, C#, ASP.NET Core, SQL, MongoDB
+- **Tools & Platforms:** Git, Jira, Visual Studio, Azure Cloud
 - **Other Languages (Explored):** Python (Flask, Django - beginner level)
 
 ---
@@ -26,8 +26,8 @@ Here are a few projects I've worked on—showcasing my current focus and learnin
 - [**Project Name**](#): Short description (e.g., "A REST API built with C# and ASP.NET Core.")
 
 ### Archived or Early Work
-- [**Flask Project**](#): Built as part of my early learning experience.
-- [**Django Project**](#): A simple blog with CRUD functionality.
+- [**Flask Project**](#https://github.com/bluicien/CloudAppDevelopment_Capstone): A simple Flask app to log transactions and perform CRUD operations.
+- [**IB Capstone Project**](#https://github.com/bluicien/Transaction_log_FLASK): A full stack car and dealership management platform built on Django.
 > _Note: These projects were created during my early days of learning Python and are archived for reference._
 
 ---
