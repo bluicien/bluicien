@@ -18,6 +18,12 @@ Hi there! I'm a **Junior Software Developer** passionate about learning, buildin
 
 ---
 
+## 📎 Featured Portfolio Site
+
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Site-0ff?style=for-the-badge&labelColor=1D3557&logo=react&logoColor=white)](https://blue-forest-053f17210.6.azurestaticapps.net/)
+
+---
+
 ## 🔨 Projects
 Here are a few projects I've worked on—showcasing my current focus and learning journey:
 
